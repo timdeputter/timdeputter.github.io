@@ -2,7 +2,7 @@
   "name": "HIIT Workout App",
   "short_name": "HIIT Workout",
   "description": "Eine HIIT Workout App optimiert für iPhone 15 Plus",
-  "start_url": "/hiity/",
+  "start_url": "./",
   "display": "fullscreen",
   "orientation": "portrait",
   "theme_color": "#000000",
